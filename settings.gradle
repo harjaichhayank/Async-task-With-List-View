@@ -1,0 +1,2 @@
+rootProject.name='AsyncTaskWithListView'
+include ':app'
